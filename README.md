@@ -8,8 +8,8 @@ To create ATM System software that will meet the needs of the applicant and help
 to withdraw money,deposit.
 ### UML DIAGRAMS:
 ```
-DEVELOPED BY: SWATHI S
-REG.NO:212223040220
+DEVELOPED BY: KARTHIKEYAN R
+REG.NO:212222240046
 ```
 ### USECASE DIAGRAM:
 ![](ATM-1.png)
